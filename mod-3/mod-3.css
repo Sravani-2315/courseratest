@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    padding: 10px;
+}
+.navbar{
+    background-color: grey;
+    border-color: black !important;
+    border: 3px solid !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+
+}
+.navbar-brand{
+    font-color: black;
+    color: black !important;
+}
+
+.navbar-toggler-icon {
+    color : black !important;
+}
+.cbs{
+    background-color: grey;
+    margin: 10px;
+    font-family: "roboto";
+    padding-left: 8px;
+    box-sizing: border-box;
+}
+.custom-dropdown-button{ 
+        background-color: grey !important; 
+        color: black !important; 
+        border: thick !important;
+        border: 25px !important;
+}
+.cbsheading{
+    padding: 10px;
+}
+.navbar-nav{
+    font-color: black !important;
+    border-color: black !important;
+    border-width: thin;
+    border: 3px solid !important;
+    font-weight: bold;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    padding: 0px !important;
+    margin-top: 0px !important;
+    margin-right: -15px !important;
+    margin-bottom: -15px !important;
+    margin-left: -15px !important;
+}
+.nav-link{
+    border-color: black !important;
+    border-width: thin;
+    border: 1px solid !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    padding: 0px !important;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+
+}
